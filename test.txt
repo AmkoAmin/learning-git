@@ -1,1 +1,1 @@
-echo "Version 1"
+Version 1
